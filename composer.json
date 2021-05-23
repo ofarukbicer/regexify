@@ -1,0 +1,21 @@
+{
+    "name": "ofarukbicer/regexify",
+    "description": "PHP için daha kolay regex yazma imkanı",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://github.com/ofarukbicer/regexify",
+    "keywords": ["regex","php","regex generator"],
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ofarukbicer\\Regexify\\": "src/"
+        }
+    },
+    "require": {}
+}
